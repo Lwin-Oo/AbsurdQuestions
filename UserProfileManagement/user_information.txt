@@ -1,0 +1,40 @@
+Username: tiffany
+Name: Tiffany Young
+Email: tiffany@gmail.com
+
+Username: dara
+Name: Sandara Park
+Email: dara@gmail.com
+
+Username: seulgi
+Name: Seulgi Kang
+Email: seulgi@gmail.com
+
+Username: rose
+Name: Chaeyoung PArk
+Email: rose@gmail.com
+
+Username: mina
+Name: Mina Myoi
+Email: mina@gmail.com
+
+Username: winter
+Name: Min-jeong Kim
+Email: winter@gmail.com
+
+Username: lia
+Name: Jisu Choi
+Email: lia@gmail.com
+
+Username: liz
+Name: Jiwon Kim
+Email: liz@gmail.com
+
+Username: sakura
+Name: Sakura Miyawaki
+Email: sakura@gmail.com
+
+Username: hanni
+Name: Hanni Pham
+Email: hanni@gmail.com
+
