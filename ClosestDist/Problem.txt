@@ -1,0 +1,50 @@
+Julia is looking for an apartment for her upcoming school year.
+As a gym-rat, she is having a hard time with considering several factors while finding a place.
+Your job is to write a program which will help her with finding the most convinent location that will be closest to places she want to go.
+______________________________________________________________________________________________________________________________________________
+
+NUM_BLOCKS = i 
+NUM_REQ = j
+
+SIZE_BLOCK_VECTOR = n
+SIZE_REQ_VECTOR = m
+
+Input:
+
+Blocks = [
+
+	{
+	 "gym": False,
+	 "school": True,
+	 "store": False,
+	},
+	 
+	{
+	 "gym": True,
+	 "school": False,
+	 "store": True,
+	},
+
+	{
+	 "gym": True,
+	 "school": True,
+	 "store": False,
+	},
+
+	{
+	 "gym": False,
+	 "school": True,
+	 "store": False,
+	},
+	
+	{
+	 "gym": False,
+	 "school": True,
+	 "store": True,
+	},
+
+]
+
+Output: 
+Blocks[3]
+

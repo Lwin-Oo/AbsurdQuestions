@@ -1,0 +1,5 @@
+{'gym': False, 'school': True, 'store': False}
+{'gym': True, 'school': False, 'store': True}
+{'gym': True, 'school': True, 'store': False}
+{'gym': False, 'school': True, 'store': False}
+{'gym': False, 'school': True, 'store': True}

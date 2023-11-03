@@ -1,0 +1,57 @@
+Blocks = [
+
+	{
+	 "gym": False,
+	 "school": True,
+	 "store": False,
+	},
+	 
+	{
+	 "gym": True,
+	 "school": False,
+	 "store": True,
+	},
+
+	{
+	 "gym": True,
+	 "school": True,
+	 "store": False,
+	},
+
+	{
+	 "gym": False,
+	 "school": True,
+	 "store": False,
+	},
+	
+	{
+	 "gym": False,
+	 "school": True,
+	 "store": True,
+	},
+
+]
+
+
+//gymdist, schooldist, storedist
+
+//NUM_BLOCKS = i 
+//NUM_REQ = j
+
+//SIZE_BLOCK_VECTOR = n
+//SIZE_REQ_VECTOR = m
+
+vector<vector<int>>distane_vector(n, vector<int> (m, INT_MAX))
+
+for(int j=0; j<m; j++){
+	if(Blocks[0][j])
+		distance_vector[0][j]=0;
+}
+
+for(int i=0; i<n; i++){
+	for(int j=1; j<m; j++){
+
+		if(Blocks[i][j])
+			distance_vector[i][j]=0;
+	}
+}
